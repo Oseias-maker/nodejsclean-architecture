@@ -102,8 +102,3 @@ It may have a constructor to define its dependencies (concrete implementations -
 **Be careful! A use case must have only one precise business responsibility!**
 
 A use case can call objects in the same layer (such as data repositories) or in the domain layer.
-
-
-
-
-my name is Jeff
