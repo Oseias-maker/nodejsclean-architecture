@@ -1,4 +1,4 @@
-# A basic Hapi.js API following Clean Architecture principle
+# A basic Hapi.js API following Clean Architecture principles
 
 ## Getting started (< 2mn)
 
